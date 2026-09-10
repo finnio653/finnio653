@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hey, I'm Finn (@finnio653)
 
-<!--
-**finnio653/finnio653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in SF. Currently building core backend services and data pipelines at Tech Labs.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- Designing resilient APIs with Go and FastAPI
+- Query tuning and index optimization in PostgreSQL
+- Caching layers and state handling with Redis
+- Streamlining local development and deployment with Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack
+- **Languages:** Go, Python, SQL, Bash
+- **Databases:** PostgreSQL, Redis
+- **Infrastructure:** Docker, Linux, GitHub Actions
+
+#### Reach Out
+- Email: finn@techlabs.internal
+- LinkedIn: [linkedin.com/in/finnio653](https://linkedin.com)
+
+Open to discussions on DB internals, distributed systems, or good coffee in SF.
